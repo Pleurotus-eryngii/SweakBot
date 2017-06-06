@@ -1,7 +1,7 @@
 ::RBNACL_LIBSODIUM_GEM_LIB_PATH = "F:/libsodium.dll"
 require 'discordrb'
  
-bot = Discordrb::Commands::CommandBot.new token: 'MzEwNzQ0MjM4MDk2OTA4Mjg5.C_Cdnw.aA_qiBFtYVjXXZ-qX3YYA7V6UCY', client_id: 310744238096908289, prefix: '!'
+bot = Discordrb::Commands::CommandBot.new token: '_(:3」∠)_', client_id:_(:3」∠)_ , prefix: '!'
 
 bot.message(with_text: '進捗') do |event|
   event.respond '進捗どうですか'
